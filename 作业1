@@ -1,1 +1,8 @@
+2024 腾讯游戏客户端公开课作业1<br>
+===
+1.下载源码版ue5.4.4<br>
+---
+通过GitHub账号申请加入Epic Games组群下载ue5.4的源码安装包，下载之后先运行setup.dat 再运行GenerateProjectFiles.bat<br>
+文件夹里便会生成vs2022的项目文件<br>
+
 
